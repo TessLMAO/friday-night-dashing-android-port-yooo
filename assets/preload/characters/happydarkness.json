@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "HappyDarknessIdle",
+			"name": "happydarknessIdle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "HappyDarknessLeft",
+			"name": "happydarknessLeft",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "HappyDarknessDown",
+			"name": "happydarknessDown",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "HappyDarknessRight",
+			"name": "happydarknessRight",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "Animation",
 			"fps": 24,
-			"name": "HappyDarknessAnimation",
+			"name": "happydarknessAnimation",
 			"indices": []
 		},
 		{
@@ -63,12 +63,12 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "HappyDarknessUp",
+			"name": "happydarknessUp",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/HappyDarkness_Assets",
+	"image": "characters/happydarkness_assets",
 	"position": [
 		-590,
 		-1040

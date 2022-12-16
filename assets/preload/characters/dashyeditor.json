@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "DashyEditorIdle",
+			"name": "dashyeditorIdle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "DashyEditorLeft",
+			"name": "dashyeditorLeft",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "DashyEditorDown",
+			"name": "dashyeditorDown",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "DashyEditorUp",
+			"name": "dashyeditorUp",
 			"indices": []
 		},
 		{
@@ -52,12 +52,12 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "DashyEditorRight",
+			"name": "dashyeditorRight",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/DashyEditor_Assets",
+	"image": "characters/dashyeditor_assets",
 	"position": [
 		-790,
 		-910

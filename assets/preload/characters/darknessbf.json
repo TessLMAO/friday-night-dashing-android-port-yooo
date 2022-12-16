@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "DarknessBFIdle",
+			"name": "darknessbfIdle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "DarknessBFLeft",
+			"name": "darknessbfLeft",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "DarknessBFDown",
+			"name": "darknessbfDown",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "DarknessBFUp",
+			"name": "darknessbfUp",
 			"indices": []
 		},
 		{
@@ -52,12 +52,12 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "DarknessBFRight",
+			"name": "darknessbfRight",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DarknessBF_Assets",
+	"image": "characters/darknessbf_assets",
 	"position": [
 		-770,
 		-410

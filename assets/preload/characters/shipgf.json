@@ -25,7 +25,7 @@
 				14,
 				15
 			],
-			"name": "ShipGFLeft"
+			"name": "shipgfLeft"
 		},
 		{
 			"offsets": [
@@ -52,11 +52,11 @@
 				14,
 				15
 			],
-			"name": "ShipGFRight"
+			"name": "shipgfRight"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/ShipGF_Assets",
+	"image": "characters/shipgf_assets",
 	"position": [
 		-550,
 		-710

@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "BFHandIdle",
+			"name": "bfhandIdle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BFHandLeft",
+			"name": "bfhandLeft",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BFHandDown",
+			"name": "bfhandDown",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "BFHandUp",
+			"name": "bfhandUp",
 			"indices": []
 		},
 		{
@@ -52,12 +52,12 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BFHandRight",
+			"name": "bfhandRight",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BFHand_Assets",
+	"image": "characters/bfhand_assets",
 	"position": [
 		-530,
 		-200

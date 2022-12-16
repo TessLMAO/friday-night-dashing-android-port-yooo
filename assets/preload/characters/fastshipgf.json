@@ -8,12 +8,12 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "FastShipGFLoop",
+			"name": "fastshipgfLoop",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/FastShipGF_Assets",
+	"image": "characters/fastshipgf_assets",
 	"position": [
 		-550,
 		-670

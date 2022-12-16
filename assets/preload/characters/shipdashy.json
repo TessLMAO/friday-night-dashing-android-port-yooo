@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "ShipDashyIdle",
+			"name": "shipdashyIdle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "ShipDashyLeft",
+			"name": "shipdashyLeft",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "ShipDashyDown",
+			"name": "shipdashyDown",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "ShipDashyUp",
+			"name": "shipdashyUp",
 			"indices": []
 		},
 		{
@@ -52,12 +52,12 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "ShipDashyRight",
+			"name": "shipdashyRight",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/ShipDashy_Assets",
+	"image": "characters/shipdashy_assets",
 	"position": [
 		-520,
 		-410

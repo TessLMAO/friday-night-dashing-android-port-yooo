@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "DarkBFIdle",
+			"name": "darkbfIdle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "DarkBFLeft",
+			"name": "darkbfLeft",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "DarkBFDown",
+			"name": "darkbfDown",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "DarkBFUp",
+			"name": "darkbfUp",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "DarkBFRight",
+			"name": "darkbfRight",
 			"indices": []
 		},
 		{
@@ -63,7 +63,7 @@
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "DarkBFIdle",
+			"name": "darkbfIdle",
 			"indices": []
 		},
 		{
@@ -74,7 +74,7 @@
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "DarkBFIdle",
+			"name": "darkbfIdle",
 			"indices": []
 		},
 		{
@@ -85,7 +85,7 @@
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "DarkBFIdle",
+			"name": "darkbfIdle",
 			"indices": []
 		},
 		{
@@ -96,12 +96,12 @@
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "DarkBFIdle",
+			"name": "darkbfIdle",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DarkBF_Assets",
+	"image": "characters/darkbf_assets",
 	"position": [
 		-820,
 		-420

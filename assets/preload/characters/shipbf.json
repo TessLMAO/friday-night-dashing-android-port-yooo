@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "ShipBFIdle",
+			"name": "shipbfIdle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "ShipBFLeft",
+			"name": "shipbfLeft",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "ShipBFDown",
+			"name": "shipbfDown",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "ShipBFRight",
+			"name": "shipbfRight",
 			"indices": []
 		},
 		{
@@ -63,7 +63,7 @@
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "MISSShipBFLeft",
+			"name": "MISSshipbfLeft",
 			"indices": []
 		},
 		{
@@ -74,7 +74,7 @@
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "MISSShipBFDown",
+			"name": "MISSshipbfDown",
 			"indices": []
 		},
 		{
@@ -85,7 +85,7 @@
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "MISSShipBFUp",
+			"name": "MISSshipbfUp",
 			"indices": []
 		},
 		{
@@ -96,12 +96,12 @@
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "MISSShipBFRight",
+			"name": "MISSshipbfRight",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/ShipBF_Assets",
+	"image": "characters/shipbf_assets",
 	"position": [
 		200,
 		490

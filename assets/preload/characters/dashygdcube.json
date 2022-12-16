@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Dashy Idle",
+			"name": "dashy Idle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Dashy Left",
+			"name": "dashy Left",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Dashy Down",
+			"name": "dashy Down",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Dashy Up",
+			"name": "dashy Up",
 			"indices": []
 		},
 		{
@@ -52,12 +52,12 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Dashy Right",
+			"name": "dashy Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Dashy_Tiny",
+	"image": "characters/dashy_tiny",
 	"position": [
 		-760,
 		-580

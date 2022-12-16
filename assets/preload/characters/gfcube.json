@@ -25,7 +25,7 @@
 			"fps": 24,
 			"anim": "danceLeft",
 			"loop": false,
-			"name": "GFCubedanceLeft"
+			"name": "gfcubedanceLeft"
 		},
 		{
 			"offsets": [
@@ -52,11 +52,11 @@
 			"fps": 24,
 			"anim": "danceRight",
 			"loop": false,
-			"name": "GFCubedanceRight"
+			"name": "gfcubedanceRight"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GFCube_Assets",
+	"image": "characters/gfcube_assets",
 	"position": [
 		0,
 		0

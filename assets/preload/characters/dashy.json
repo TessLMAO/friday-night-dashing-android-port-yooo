@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "DashyIdle",
+			"name": "dashyIdle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "DashyLeft",
+			"name": "dashyLeft",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "DashyDown",
+			"name": "dashyDown",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "DashyUp",
+			"name": "dashyUp",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "DashyRight",
+			"name": "dashyRight",
 			"indices": []
 		},
 		{
@@ -63,12 +63,12 @@
 			],
 			"anim": "Animation",
 			"fps": 24,
-			"name": "DashyAnimation",
+			"name": "dashyAnimation",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Dashy_Assets",
+	"image": "characters/dashy_assets",
 	"position": [
 		-800,
 		-880
